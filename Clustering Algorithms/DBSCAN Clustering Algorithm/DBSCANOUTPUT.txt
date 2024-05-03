@@ -1,0 +1,23 @@
+Source Port vs Time Clustering Analytics
+
+Homogeneity Score: 0.41071295490814813
+Completeness Score: 1.0
+V Score: 0.5822771435949418
+Silhouette Score: 0.7877789396247541
+Davies Bouldin Score: 1.303832561866668
+Calinski Harabasz Score: 175.08929745272624
+DBCV Score: 0.716867294027693
+Estimated number of clusters: 11
+Estimated number of noise points: 16
+
+Destination Port vs Time Clustering Analytics
+
+Homogeneity Score: 0.41071295490814813
+Completeness Score: 1.0
+V Score: '0.5822771435949418'
+Silhouette Score: 0.7877789396247541
+Davies Bouldin Score: 1.6961381332400318
+Calinski Harabasz Score: 498.95215264367334
+DBCV Score: -0.0910396345705315
+Estimated number of clusters: 11
+Estimated number of noise points: 16
